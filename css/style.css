@@ -117,6 +117,11 @@ div {
 @media all and (min-width:772px) {
     div {
         width: 45%;
+        display: inline-block;
+
+        img {
+            max-height: 30vh;
+        }
     }
 }
 
